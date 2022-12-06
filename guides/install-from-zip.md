@@ -5,8 +5,8 @@ to install from a repository. Another way is to manually install an addon
 packed as a zip file. Add-ons served on this site are all available as zip 
 file. In this how-to we will install such an add-on as zip file.
 
-To allow installing add-ons from zip file ensure you have enabled 
-'settings -> addons -> unknown sources' in Kodi. Click for details on 
+In order to allow installing add-ons from zip file, ensure you have enabled 
+'settings -> system -> addons -> unknown sources' in Kodi. Click for details on 
 [how to enable installing from unknown sources](/guides/enable-unknown-sources.html)
 
 Now you have to obtain the zipped addon. For the addons served here, there are
@@ -18,7 +18,7 @@ basically two ways to do that.
   Download the zip file from the GitHub releases page of the addon, or from 
   [the addons directory](/kodi-addons) on this website. 
   
-* The second method is to add https://dimkroon.github.io/kodi-addons as a file 
+* The second method is to add {{ site.url }}/kodi-addons as a file 
   source to Kodi's filemanager. This way you have direct access to the zip files
   served on this website. Click for detailed instructions on [how to add a file 
   source](/guides/howto-add-file-source.html)
@@ -29,7 +29,7 @@ Start installation by selecting settings on the home screen
 
 &nbsp;
 ![img select settings](/assets/images/kodi-settings-select-addon.png)
-In settings, select addon to open the addon browser.
+In settings, select 'Addon' to open the addon browser.
 
 &nbsp;
 ![img select settings](/assets/images/kodi-addonbrowser-select-install-zip.png)

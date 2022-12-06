@@ -31,4 +31,4 @@ In the settings screen select system.
 In system settings, select 'Add-ons' in the left menu and enable 'unknown 
 sources'.
 
-That is all. You can now return to the home screen and install any add-on.
+That's all. You can now return to the home screen and install any add-on.
