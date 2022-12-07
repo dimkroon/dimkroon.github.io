@@ -18,7 +18,7 @@ In Settings, select Filemanager
 
 &nbsp;
 ![img select add source](/assets/images/kodi-filemanager-select-add-source.png)
-In file manager select 'Add source'. If you use a keyboard or remote press
+In file manager select 'Add source'. If you use a keyboard or a remote press
 Enter or OK. If you use a mouse, you have to double-click.
 
 &nbsp;

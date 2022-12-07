@@ -5,15 +5,16 @@ to install from a repository. Another way is to manually install an addon
 packed as a zip file. Add-ons served on this site are all available as zip 
 file. In this how-to we will install such an add-on as zip file.
 
-In order to allow installing add-ons from zip file, ensure you have enabled 
-'settings -> system -> addons -> unknown sources' in Kodi. Click for details on 
-[how to enable installing from unknown sources](/guides/enable-unknown-sources.html)
+In order to allow installing add-ons from zip file, ensure you have 
+'settings -> system -> addons -> unknown sources' enabled in Kodi. Click for 
+details on 
+[how to enable installing from unknown sources](/guides/enable-unknown-sources.html).
 
 Now you have to obtain the zipped addon. For the addons served here, there are
 basically two ways to do that.
 * The first method is to manually download the zip and save it to a location 
   that is accessible by Kodi. The local file system of your Kodi device will 
-  do nicely, but on some device that may not be that easy. Alternatively you 
+  do nicely, but on some devices that may not be that easy. Alternatively you 
   can save the zip to a network share, like your NAS.
   Download the zip file from the GitHub releases page of the addon, or from 
   [the addons directory](/kodi-addons) on this website. 
@@ -41,7 +42,7 @@ automatically update. Keep that in mind and click 'Yes' to proceed.
 ![img select settings](/assets/images/kodi-dlg-install-zip-select-github.png)
 A file browser dialog will open. Use this to locate the zip file if you have 
 just downloaded it manually. If you have followed the instructions at 
-[how to add a file source](/guides/howto-add-file-source.html), you will see 
+[how to add a file source](/guides/howto-add-file-source.html), you'll notice 
 a source named dimkroon.github in the file browser. Select that to open the
 web directory.
 
@@ -51,7 +52,7 @@ dependency that are not yet present on your systeem. The time to completely
 install the addon varies depending on the number of packages it needs to 
 download. 
 
-When the installation has finished Kodi will show a notification of either 
+When installing has finished Kodi will show a notification of either 
 success, or failure. Failure is most likely due to an error in the add-on, or 
 in the way it is packed. Please file an issue on GitHub if that happens and do 
 not forget to add the debug log.

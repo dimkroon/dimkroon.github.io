@@ -12,9 +12,9 @@ Klik voor details op
 
 Nu moeten we de addons als zip file bemachtigen. Voor de addons op deze 
 website zijn er grofweg twee methodes.
-* Als eerste kun je handmatig het zipobestand downloaden en ergens opslaan 
-  waar het vanuit Kodi bereikbaar is. De lokalel= schijf van Kodi is 
-  bijvoorbeedl prima, maar op sommige apparaten is dat niet zo makkelijk 
+* Als eerste kun je handmatig het zipbestand downloaden en ergens opslaan 
+  waar het vanuit Kodi bereikbaar is. De lokale schijf van Kodi is 
+  bijvoorbeeld prima, maar op sommige apparaten is dat niet zo makkelijk 
   toegankelijk. Als alternatief kan je de zip opslaan op een network share, 
   zoals je NAS.
   Download het zipbestand van de GitHub releases pagina van de addon, of van
@@ -24,7 +24,7 @@ website zijn er grofweg twee methodes.
   toe te voegen aan Kodi's Bestandbeheer. Op deze manier heb je direct 
   toegang tot de addons die op deze website beschikbaar zijn. Klik for 
   gedetailleerde instructies op 
-  [url als bestandslocatie toevoegen](/nl/howto-add-file-source.html).
+  [url als bestandslocatie toevoegen](/nl/guides/howto-add-file-source.html).
 
 &nbsp;
 ![img select settings](/assets/images/kodi-home-select-settings.png)
@@ -36,7 +36,7 @@ In Instellingen, selecteer 'Add-ons' en de addon-verkenner zal openen.
 
 &nbsp;
 ![img select settings](/assets/images/kodi-addonbrowser-select-install-zip.png)
-In de Addon-verkenner selecteer 'Add-ons installeren via zipbestand'. Je zal 
+In de Addon-verkenner selecteer 'Add-ons installeren via zipbestand'. Je zult 
 nu een dialog venster te zien krijgen waarin je gemeld wordt dat addons die op
 deze manier geïnstalleerd zijn niet automatisch worden geupdated. Onthoudt 
 dat en klik op 'ja' om door te gaan.
@@ -46,23 +46,23 @@ dat en klik op 'ja' om door te gaan.
 Er opent nu een bestandsverkenner. Gebruik dit om het zip bestand te vinden 
 als je dat zojuist handmatig hebt gedownload.
 Als je de instructies hebt gevolgd op 
-[url als bestandslocatie toevoegen](/nl/bestand_locatie_toevoegen.html), dan zul
-je de locatie genaamd dimkroon.github in de verkenner aantreffen. Selecteer 
-dat om web folder te openen.
+[url als bestandslocatie toevoegen](/nl/guides/howto-add-file-source.html), 
+dan zul je de locatie genaamd dimkroon.github in de verkenner aantreffen. 
+Selecteer dat om web folder te openen.
 
 Ga naar het zipbestand van de addon die je wilt installeren en klik erop, of 
 druk op Enter/OK. De addon zal nu worden geïnstalleerd. Kodi installeert 
-autopmatisch alle afhankelijkheden die nog niet op je systeem zijn 
+automatisch alle afhankelijkheden die nog niet op je systeem zijn 
 geïnstalleerd. Hoe lang het installeren duurt, hangt af van het aantal 
 pakketten dat Kodi moet downloaden.
 
 Wanner de installatie klaar is krijg je een melding van òf succes, òf van 
 een fout. Een fout is waarshijnlijk het gevolg van een fout in de addon, of 
 van de manier waarop het is ingepakt. Als dat gebeurt, meld dat alsjeblieft 
-op github en vergeet niet een debug log meet te sturen.
+op github en vergeet niet een debug log mee te sturen.
 
 #### Let op 
-  Zorg ervoor dat je Kodi opnieuw opstart als er een fout is met het 
+  Zorg ervoor dat je Kodi opnieuw opstart als er een fout is geweest met het 
   installeren van een addon. Zelfs als de addon hersteld is zal Kodi de 
   fout blijven geven totdat je herstart.
 
