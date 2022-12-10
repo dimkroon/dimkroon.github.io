@@ -56,8 +56,8 @@ Bestandsbeheer.
 
 Als Kodi geen toegang kan krijgen tot de nieuwe locatie dan wordt er een 
 dialoog getoond met de vraag om het evengoed toe te voegen. Als Kodi met 
-internet verbonden is dan mag dit niet gebeuren. Controleer de url die je hebt 
-ingevoerd en probeer het opnieuw.
+internet verbonden is dan mag dit niet gebeuren. Klik op 'Nee', controleer de 
+url die je hebt ingevoerd en probeer het opnieuw.
 
 Als Kodi nog steeds niet kan verbinden en je weet zeker dat de 
 internetverbinding goed is, dan zou je kunnen proberen om op een 
@@ -66,18 +66,18 @@ webbrowser in te voeren, gewoon om te zien of de website werkt.
 
 &nbsp;
 ![img file mngr new src](/assets/images/kodi-filemanager-with-new-source.png)
-De neiuwe locatie is nu zichtbaar in Bestandsbeheer.
+De nieuwe locatie is nu zichtbaar in Bestandsbeheer.
 
 Je kan nogmaals controleren of het werkt door de locatie te selecteren 
-(Dubbel-klik met een muis). Je zult dan de inhoud van de webfolder zien. 
+(Dubbel-klik met een muis). Je zult dan de inhoud van de web-folder zien. 
 Waarschijn slechts enkele addon zip bestanden.
 
 #### Let op
 Je hebt alleen maar een bestandslocatie toegevoegd, geen repository. Een 
-repository kan automatisch addons updaten, afhandeklijk van de versie en de 
+repository kan automatisch addons updaten, afhankelijk van de versie en de 
 versie van Kodi, maar een bestandslocatie is niet meer dan een plek waar 
-Kodi bestanden kan vinden. De addons die hiuer vindt moet je handmatig als 
-zip bestand installeren en dienen handmatig ge-updated te worden.
+Kodi bestanden kan vinden. De addons die je hier vindt moet je handmatig als 
+zip bestand installeren en dienen handmatig geüpdatet te worden.
 
 #### Let op
 Je kan niet zomaar elke web url aan Bestandsbeheer toevoegen en verwachten 

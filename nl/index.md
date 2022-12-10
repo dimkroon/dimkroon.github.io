@@ -1,5 +1,6 @@
 ---
 title: "Kodi add-ons"
+description: Add-ons voor kodi door Dimitri Kroon
 permalink: /nl
 ---
 

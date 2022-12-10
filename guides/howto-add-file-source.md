@@ -53,10 +53,10 @@ If everything is OK Kodi will return to the filemanager.
 
 If Kodi fails to gain access to the new source it will show a dialog asking 
 you whether to add the source anyway. If Kodi is connected to the internet it 
-should not fail. Check the web address you have entered and try again. If kodi 
-still cannot connect to the web url, and you are sure Kodi is correctly
-connected to the internet, you can try to enter the same web 
-address ({{ site.url }}/kodi-addons) in a webbrowser on a normal
+should not fail. Clikc on 'No', check the web address you have entered and try 
+again. If kodi still cannot connect to the web url, and you are sure Kodi is 
+correctly connected to the internet, you can try to enter the same web address 
+({{ site.url }}/kodi-addons) in a webbrowser on a normal
 computer, just to check if the website is up.
 
 &nbsp;

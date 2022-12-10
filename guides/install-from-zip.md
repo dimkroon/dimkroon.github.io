@@ -1,9 +1,10 @@
 ### Install an addon from zip file
 
-There are various ways to install an add-on in Kodi. The most simple method is
-to install from a repository. Another way is to manually install an addon 
-packed as a zip file. Add-ons served on this site are all available as zip 
-file. In this how-to we will install such an add-on as zip file.
+There are various ways to install an add-on in Kodi. The most convenient 
+method is to install from a repository. Another way is to manually install an 
+addon packed as a zip file, and that's actually quite simple as well. Add-ons 
+served on this site are all available as zip file. In this how-to we will 
+install such an add-on as zip file.
 
 In order to allow installing add-ons from zip file, ensure you have 
 'settings -> system -> addons -> unknown sources' enabled in Kodi. Click for 
@@ -42,7 +43,7 @@ automatically update. Keep that in mind and click 'Yes' to proceed.
 ![img select settings](/assets/images/kodi-dlg-install-zip-select-github.png)
 A file browser dialog will open. Use this to locate the zip file if you have 
 just downloaded it manually. If you have followed the instructions at 
-[how to add a file source](/guides/howto-add-file-source.html), you'll notice 
+[how to add a file source](/guides/howto-add-file-source.html), you'll find 
 a source named dimkroon.github in the file browser. Select that to open the
 web directory.
 

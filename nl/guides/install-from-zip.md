@@ -2,8 +2,9 @@
 
 Er zijn verschillende manieren om in Kodi addons te installeren. Het meest 
 eenvoudige is om te installeren van een repository. Een andere manier is om 
-handmatig een zipbestand te installeren. De addons op deze website zijn 
-allemaal beschikbaar als zipbestand.
+handmatig een zipbestand te installeren, en dat is eigenlijk ook helemaal 
+niet moeilijk. De addons op deze website zijn allemaal beschikbaar als 
+zipbestand.
 
 Om zipbestanden te kunnen installeren moet je ervoor zorgen dat je
 'instellingen -> systeem -> addons -> Onbekende bronnen' hebt ingeschakeld. 
@@ -38,7 +39,7 @@ In Instellingen, selecteer 'Add-ons' en de addon-verkenner zal openen.
 ![img select settings](/assets/images/kodi-addonbrowser-select-install-zip.png)
 In de Addon-verkenner selecteer 'Add-ons installeren via zipbestand'. Je zult 
 nu een dialog venster te zien krijgen waarin je gemeld wordt dat addons die op
-deze manier geïnstalleerd zijn niet automatisch worden geupdated. Onthoudt 
+deze manier geïnstalleerd zijn niet automatisch worden bijgewerkt. Onthoudt 
 dat en klik op 'ja' om door te gaan.
 
 &nbsp;
@@ -57,7 +58,7 @@ geïnstalleerd. Hoe lang het installeren duurt, hangt af van het aantal
 pakketten dat Kodi moet downloaden.
 
 Wanner de installatie klaar is krijg je een melding van òf succes, òf van 
-een fout. Een fout is waarshijnlijk het gevolg van een fout in de addon, of 
+een fout. Een fout is waarschijnlijk het gevolg van een fout in de addon, of 
 van de manier waarop het is ingepakt. Als dat gebeurt, meld dat alsjeblieft 
 op github en vergeet niet een debug log mee te sturen.
 
