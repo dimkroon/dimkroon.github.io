@@ -8,7 +8,7 @@ description: Add-ons voor kodi door Dimitri Kroon
 Er zijn verschillende soorten bestandslocaties. Je kan locaties toevoegen van 
 netwerk shares, zoals een NAS, WEBDAV, FTP en ook van een gewone webserver. 
 Dat laatste is wat we gaan doen, maar de procedure voor andere types is 
-nagenoeg hetzelfde. We gaan de folder met de zipbestanden op deze webserver  
+nagenoeg hetzelfde. We gaan de folder met de zipbestanden op deze webserver 
 toevoegen als bestandslocatie in Kodi, zodat je de addons kunt installeren 
 zonder ze eerst te hoeven downloaden.
 

@@ -62,9 +62,9 @@ automatisch alle afhankelijkheden die nog niet op je systeem zijn
 geïnstalleerd. Hoe lang het installeren duurt, hangt af van het aantal 
 pakketten dat Kodi moet downloaden.
 
-Wanner de installatie klaar is krijg je een melding van òf succes, òf van 
+Wanneer de installatie klaar is krijg je een melding van òf succes, òf van 
 een fout. Een fout is waarschijnlijk het gevolg van een fout in de addon, of 
-van de manier waarop het is ingepakt. Als dat gebeurt, meld dat alsjeblieft 
+van de manier waarop het is ingepakt. Als dat gebeurt, meldt dat alsjeblieft 
 op github en vergeet niet een debug log mee te sturen.
 
 #### Let op 
