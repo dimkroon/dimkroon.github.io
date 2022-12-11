@@ -44,7 +44,7 @@ automatically update. Keep that in mind and click 'Yes' to proceed.
 A file browser dialog will open. Use this to locate the zip file if you have 
 just downloaded it manually. If you have followed the instructions at 
 [how to add a file source](/guides/howto-add-file-source.html), you'll find 
-a source named dimkroon.github in the file browser. Select that to open the
+a source named dimkroon.net in the file browser. Select that to open the
 web directory.
 
 Navigate to the zip file you want to install and click, or press enter. The 

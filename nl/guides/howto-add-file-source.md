@@ -8,34 +8,38 @@ toevoegen als bestandslocatie in Kodi, zodat je de addons kunt installeren
 zonder ze eerst te hoeven downloaden.
 
 &nbsp;
-![img select settings](/assets/images/kodi-home-select-settings.png)
+![img select settings](/assets/images/nl/kodi-home-select-settings.png)
 
 Ga naar het Thuis scherm in Kodi en klik op Instellingen
 
 &nbsp;
-![img select filemanager](/assets/images/kodi-settings-select-filemanager.png)
+![img select filemanager](/assets/images/nl/kodi-settings-select-filemanager.
+png)
 In Instellingen, selecteer Bestandsbeheer
 
 &nbsp;
-![img select add source](/assets/images/kodi-filemanager-select-add-source.png)
+![img select add source](/assets/images/nl/kodi-filemanager-select-add-source.
+png)
 In Bestandsbeheer select 'Locatie toevoegen'. Gebruik je aan toetsenbord of 
 afstandsbediening, druk dan op Enter of OK. Als je een muis gebruikt dan moet 
 je dubbel klikken.
 
 &nbsp;
-![img enter source](/assets/images/kodi-dlg-add-file-source-enter-source.png)
+![img enter source](/assets/images/nl/kodi-dlg-add-file-source-enter-source.png)
 Je zou op 'Bladeren' kunnen klikken om de locatie op te zoeken, maar voor ons 
 is het veel makkelijker om direct de url in te voeren.
 Dus klik op het invoer veld waar nu '\<Geen>' staat.
 
 &nbsp;
-![img enter source location](/assets/images/kodi-enter-file-source-location.png)
+![img enter source location](/assets/images/nl/kodi-enter-file-source-location.
+png)
 Er wordt een on-screen toetsenbord getoond waar je het web adres kan invoeren.
 Voer in: '{{ site.url }}/kodi-addons'
 En klik op 'OK'
 
 &nbsp;
-![img select source name](/assets/images/kodi-dlg-add-file-src-select-name.png)
+![img select source name](/assets/images/nl/kodi-dlg-add-file-src-select-name.
+png)
 Je ziet nu het web adres in het invoerveld voor locaties.
 
 In het invoerveld beneden kan je de web locatie aan naam geven. Dit is de 
@@ -45,11 +49,11 @@ nemen.
 
 Kodi heeft de locatie al 'kodi-addons' genoemd, maar dat zegt weinig over 
 de herkomst. We kunnen het beter een nieuwe naam geven. Klik op het invoerveld 
-om het on-screen toetsenbord weer te geven en voer de naam 'dimkroon.github' 
+om het on-screen toetsenbord weer te geven en voer de naam 'dimkroon.net' 
 in. 
 
 &nbsp;
-![img dlg ok](/assets/images/kodi-dlg-add-file-src-select-ok.png)
+![img dlg ok](/assets/images/nl/kodi-dlg-add-file-src-select-ok.png)
 Het dialoogvenster moet er nu zo uit zien. Klik 'OK' om te bevestigen en de 
 locatie toe te voegen. Als alles goed gaat dan gaat Kodi nu terug naar 
 Bestandsbeheer. 
@@ -65,7 +69,7 @@ normale computer hetzelfde web adres ({{ site.url }}/kodi-addons) in een
 webbrowser in te voeren, gewoon om te zien of de website werkt.
 
 &nbsp;
-![img file mngr new src](/assets/images/kodi-filemanager-with-new-source.png)
+![img file mngr new src](/assets/images/nl/kodi-filemanager-with-new-source.png)
 De nieuwe locatie is nu zichtbaar in Bestandsbeheer.
 
 Je kan nogmaals controleren of het werkt door de locatie te selecteren 

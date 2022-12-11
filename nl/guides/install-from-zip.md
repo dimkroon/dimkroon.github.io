@@ -28,27 +28,28 @@ website zijn er grofweg twee methodes.
   [url als bestandslocatie toevoegen](/nl/guides/howto-add-file-source.html).
 
 &nbsp;
-![img select settings](/assets/images/kodi-home-select-settings.png)
+![img select settings](/assets/images/nl/kodi-home-select-settings.png)
 Begin de installatie door in het thuis scherm op instellingen te klikken.
 
 &nbsp;
-![img select settings](/assets/images/kodi-settings-select-addon.png)
+![img select settings](/assets/images/nl/kodi-settings-select-addon.png)
 In Instellingen, selecteer 'Add-ons' en de addon-verkenner zal openen.
 
 &nbsp;
-![img select settings](/assets/images/kodi-addonbrowser-select-install-zip.png)
+![img select settings](/assets/images/nl/kodi-addonbrowser-select-install-zip.
+png)
 In de Addon-verkenner selecteer 'Add-ons installeren via zipbestand'. Je zult 
 nu een dialog venster te zien krijgen waarin je gemeld wordt dat addons die op
 deze manier geïnstalleerd zijn niet automatisch worden bijgewerkt. Onthoudt 
 dat en klik op 'ja' om door te gaan.
 
 &nbsp;
-![img select settings](/assets/images/kodi-dlg-install-zip-select-github.png)
+![img select settings](/assets/images/nl/kodi-dlg-install-zip-select-github.png)
 Er opent nu een bestandsverkenner. Gebruik dit om het zip bestand te vinden 
 als je dat zojuist handmatig hebt gedownload.
 Als je de instructies hebt gevolgd op 
 [url als bestandslocatie toevoegen](/nl/guides/howto-add-file-source.html), 
-dan zul je de locatie genaamd dimkroon.github in de verkenner aantreffen. 
+dan zul je de locatie genaamd dimkroon.net in de verkenner aantreffen. 
 Selecteer dat om web folder te openen.
 
 Ga naar het zipbestand van de addon die je wilt installeren en klik erop, of 

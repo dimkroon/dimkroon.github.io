@@ -40,11 +40,11 @@ You will now see the web address in the paths field.
 In the input field below you can give the file source a name. This is the name 
 that will be shown in the file browser. You can give it any name you like, but
 it's best to give it a good descriptive name. Kodi has alread already named the
-resource 'kodi-addons', but that does tell us much about the location of 
+resource 'kodi-addons', but that does tell us much about the origin of 
 this web source.
 
 Better give a new name. Click on the entry field to show the on-screen 
-keyboard. Let's name it 'dimkroon.github'. 
+keyboard. Let's name it 'dimkroon.net'. 
 
 &nbsp;
 ![img dlg ok](/assets/images/kodi-dlg-add-file-src-select-ok.png)
@@ -61,7 +61,7 @@ computer, just to check if the website is up.
 
 &nbsp;
 ![img file mngr new src](/assets/images/kodi-filemanager-with-new-source.png)
-Now you will see the newly added source in file manager.
+With newly added source file manager should look like this.
 
 You can double-check if it works; select it and press OK/Enter (or 
 double-click with the mouse). You wil now see the contents of the web directory,

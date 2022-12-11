@@ -12,7 +12,7 @@ De afbeeldingen zijn gemaakt van Kodi 19.4 met de standaard skin. Het kan er
 wat anders uitzien als je een andere skin gebruikt.
 &nbsp;
 
-![img select settings](/assets/images/kodi-home-select-settings.png)
+![img select settings](/assets/images/nl/kodi-home-select-settings.png)
 
 Klik op de knop instellingen in het Home scherm. Bij andere skins kan de 
 knop er anders uitzien of op een andere plek staan, maar je zou altijd vanuit 
@@ -20,13 +20,14 @@ het Home scherm naar instellingen moeten kunnen gaan.
 
 &nbsp;
 
-![img select system](/assets//images/kodi-settings-select-system.png)
+![img select system](/assets//images/nl/kodi-settings-select-system.png)
 
 Selecteer 'Systeem' in het scherm instellingen.
 
 &nbsp;
 
-![img enable unknown sources](/assets//images/kodi-system-enable-unknown-sources.png)
+![img enable unknown sources](/assets/images/nl/kodi-system-enable-unknown
+-sources.png)
 
 In Insetllinge/Systeem, selecteer 'Add-ons' in het linker menu zet 'Onbekende 
 bronnen' aan.
