@@ -1,3 +1,7 @@
+---
+description: Add-ons voor kodi door Dimitri Kroon
+---
+
 ### Add-ons installeren via zipbestand
 
 Er zijn verschillende manieren om in Kodi addons te installeren. Het meest 

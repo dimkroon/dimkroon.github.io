@@ -1,3 +1,8 @@
+---
+description: Add-ons voor kodi door Dimitri Kroon
+---
+
+
 ### Voeg een web url als bestandslocatie toe aan Kodi
 
 Er zijn verschillende soorten bestandslocaties. Je kan locaties toevoegen van 

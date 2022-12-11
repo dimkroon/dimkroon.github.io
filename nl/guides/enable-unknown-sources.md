@@ -1,3 +1,8 @@
+---
+description: Add-ons voor kodi door Dimitri Kroon
+---
+
+
 ### Installeren van onbekende bronnen aan zetten in Kodi
 
 Standaard kunnen in Kodi alleen addons geïnstalleerd worden van de officiële 
