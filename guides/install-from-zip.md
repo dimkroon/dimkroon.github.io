@@ -27,7 +27,7 @@ basically two ways to do that.
 
 &nbsp;
 ![img select settings](/assets/images/kodi-home-select-settings.png)
-Start installation by selecting settings on the home screen
+Start installation by selecting settings on the home screen.
 
 &nbsp;
 ![img select settings](/assets/images/kodi-settings-select-addon.png)

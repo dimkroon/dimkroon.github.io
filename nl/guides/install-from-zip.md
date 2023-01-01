@@ -56,7 +56,7 @@ Als je de instructies hebt gevolgd op
 dan zul je de locatie genaamd dimkroon.net in de verkenner aantreffen. 
 Selecteer dat om web folder te openen.
 
-Ga naar het zipbestand van de addon die je wilt installeren en klik erop, of 
+Ga naar het zipbestand van de addon dat je wilt installeren en klik erop, of 
 druk op Enter/OK. De addon zal nu worden geïnstalleerd. Kodi installeert 
 automatisch alle afhankelijkheden die nog niet op je systeem zijn 
 geïnstalleerd. Hoe lang het installeren duurt, hangt af van het aantal 
