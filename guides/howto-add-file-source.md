@@ -23,9 +23,9 @@ Enter or OK. If you use a mouse, you have to double-click.
 
 &nbsp;
 ![img enter source](/assets/images/kodi-dlg-add-file-source-enter-source.png)
-You could press the 'Browse' button to find a file source, but for us it is
-much easier to directly enter the url to the web directory. So click on the 
-input field that now shows '\<None>'.
+You could press the 'Browse' button to find a file source, but for our purpose 
+it is much easier to directly enter the url to the web directory. So click on 
+the input field that now shows '\<None>'.
 
 &nbsp;
 ![img enter source location](/assets/images/kodi-enter-file-source-location.png)
@@ -40,10 +40,10 @@ You will now see the web address in the paths field.
 In the input field below you can give the file source a name. This is the name 
 that will be shown in the file browser. You can give it any name you like, but
 it's best to give it a good descriptive name. Kodi has alread already named the
-resource 'kodi-addons', but that does tell us much about the origin of 
+resource 'kodi-addons', but that doesn't tell us much about the origin of 
 this web source.
 
-Better give a new name. Click on the entry field to show the on-screen 
+Better give it a new name. Click on the entry field to show the on-screen 
 keyboard. Let's name it 'dimkroon.net'. 
 
 &nbsp;
@@ -53,7 +53,7 @@ If everything is OK Kodi will return to the filemanager.
 
 If Kodi fails to gain access to the new source it will show a dialog asking 
 you whether to add the source anyway. If Kodi is connected to the internet it 
-should not fail. Clikc on 'No', check the web address you have entered and try 
+should not fail. Click on 'No', check the web address you have entered and try 
 again. If kodi still cannot connect to the web url, and you are sure Kodi is 
 correctly connected to the internet, you can try to enter the same web address 
 ({{ site.url }}/kodi-addons) in a webbrowser on a normal
@@ -61,11 +61,11 @@ computer, just to check if the website is up.
 
 &nbsp;
 ![img file mngr new src](/assets/images/kodi-filemanager-with-new-source.png)
-With newly added source file manager should look like this.
+With the newly added source file manager should look like this.
 
 You can double-check if it works; select it and press OK/Enter (or 
 double-click with the mouse). You wil now see the contents of the web directory,
-which is most likely just a few Kodi add-on zips.
+which is most likely just a few Kodi add-ons as zip file.
 
 #### Note
 You have just added a file source, not a repository. A repository can 
@@ -76,6 +76,6 @@ manually updated.
 
 #### Note
 You cannot just add any url to Kodi's Filemanager and expect to see a 
-listing of the files serverd there. A webserver must be specifically 
+listing of the files served there. A webserver must be specifically 
 configured for this purpose.
 
